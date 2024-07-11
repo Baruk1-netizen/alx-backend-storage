@@ -117,6 +117,4 @@ alx-backend-storage/
 
 ## License
 
-## Author
 
-- **@waltertaya**
