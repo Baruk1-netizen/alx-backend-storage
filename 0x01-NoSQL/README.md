@@ -158,6 +158,4 @@ By the end of this project, you should be able to explain:
 - **GitHub Repository:** `alx-backend-storage`
 - **Directory:** `0x01-NoSQL`
 
-## Author
 
-- **@waltertaya**
